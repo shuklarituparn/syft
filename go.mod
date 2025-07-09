@@ -108,7 +108,7 @@ require (
 	github.com/Microsoft/hcsshim v0.11.7 // indirect
 	github.com/ProtonMail/go-crypto v1.2.0 // indirect
 	github.com/STARRY-S/zip v0.2.1 // indirect
-	github.com/agext/levenshtein v1.2.1 // indirect; indirectt
+	github.com/agext/levenshtein v1.2.1 // indirect
 	github.com/anchore/go-lzo v0.1.0 // indirect
 	github.com/anchore/go-struct-converter v0.0.0-20221118182256-c68fdcfa2092 // indirect
 	github.com/andybalholm/brotli v1.1.2-0.20250424173009-453214e765f3 // indirect
