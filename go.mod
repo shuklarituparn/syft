@@ -46,6 +46,7 @@ require (
 	github.com/go-git/go-git/v5 v5.16.2
 	github.com/go-test/deep v1.1.1
 	github.com/go-viper/mapstructure/v2 v2.3.0
+	github.com/goccy/go-yaml v1.18.0
 	github.com/gohugoio/hashstructure v0.5.0
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-containerregistry v0.20.6
@@ -92,6 +93,9 @@ require (
 	golang.org/x/net v0.41.0
 	gopkg.in/yaml.v3 v3.0.1
 	modernc.org/sqlite v1.38.0
+)
+
+require (
 	cloud.google.com/go v0.116.0 // indirect
 	cloud.google.com/go/auth v0.9.9 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.4 // indirect
@@ -162,7 +166,6 @@ require (
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-restruct/restruct v1.2.0-alpha // indirect
-	github.com/goccy/go-yaml v1.18.0
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
